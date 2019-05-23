@@ -133,7 +133,7 @@ Visualization Manager:
       Size (Pixels): 3
       Size (m): 0.00999999978
       Style: Flat Squares
-      Topic: /velodyne_points
+      Topic: /velodyne_points2
       Unreliable: false
       Use Fixed Frame: true
       Use rainbow: true
@@ -145,7 +145,7 @@ Visualization Manager:
         Min Value: -0.0129371285
         Value: true
       Axis: Z
-      Channel Name: intensity
+      Channel Name: ring
       Class: rviz/PointCloud2
       Color: 255; 255; 255
       Color Transformer: Intensity
@@ -163,7 +163,7 @@ Visualization Manager:
       Size (Pixels): 3
       Size (m): 0.0149999997
       Style: Flat Squares
-      Topic: /velodyne_points2
+      Topic: /velodyne_points
       Unreliable: false
       Use Fixed Frame: true
       Use rainbow: true
